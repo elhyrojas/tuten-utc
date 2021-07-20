@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar -Dserver.port=$PORT -Dspring.profiles.active=pdn build/libs/test-utc-1.0.jar
+web: java $JAVA_OPTS -jar -Dserver.port=$PORT -Dspring.profiles.active=pdn build/libs/tuten-utc-1.0.jar
